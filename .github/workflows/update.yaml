@@ -25,4 +25,4 @@ jobs:
           git config user.name 'github-actions'
           git config user.email 'actions@github.com'
           nix flake update --commit-lock-files
-        git push
+          git push
