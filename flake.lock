@@ -1,0 +1,40 @@
+{
+  "nodes": {
+    "dotfiles": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1715921883,
+        "narHash": "sha256-34xsXKomQfFRUmiqrMWG4xV+UijEIEZ73k2soWdL0o8=",
+        "owner": "ModestMeowth",
+        "repo": "dotfiles",
+        "rev": "1fe8841601c1903f76bd7f2b52614a50e9a699cf",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ModestMeowth",
+        "repo": "dotfiles",
+        "type": "github"
+      }
+    },
+    "keys": {
+      "flake": false,
+      "locked": {
+        "narHash": "sha256-bIVAnEY0YxWrIUUz0CoN9sCaDfO+VOiG2yfkMUchCsg=",
+        "type": "file",
+        "url": "https://github.com/ModestMeowth.keys"
+      },
+      "original": {
+        "type": "file",
+        "url": "https://github.com/ModestMeowth.keys"
+      }
+    },
+    "root": {
+      "inputs": {
+        "dotfiles": "dotfiles",
+        "keys": "keys"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
