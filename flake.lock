@@ -3,11 +3,11 @@
     "dotfiles": {
       "flake": false,
       "locked": {
-        "lastModified": 1715921883,
-        "narHash": "sha256-34xsXKomQfFRUmiqrMWG4xV+UijEIEZ73k2soWdL0o8=",
+        "lastModified": 1715966005,
+        "narHash": "sha256-SvGaWKGSGAFoM2MKq+gtE6b1ZhZe1rTmqXpiQPz+5Hc=",
         "owner": "ModestMeowth",
         "repo": "dotfiles",
-        "rev": "1fe8841601c1903f76bd7f2b52614a50e9a699cf",
+        "rev": "0430f588c4632d12b362b3480f50a9c3020cfe29",
         "type": "github"
       },
       "original": {
