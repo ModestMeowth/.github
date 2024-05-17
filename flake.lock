@@ -31,20 +31,7 @@
     "root": {
       "inputs": {
         "dotfiles": "dotfiles",
-        "keys": "keys",
-        "secrets": "secrets"
-      }
-    },
-    "secrets": {
-      "flake": false,
-      "locked": {
-        "narHash": "sha256-VZv3aXv1kxDQItyOtTagZaXwOxPQHwm8IBEbgYMP2jI=",
-        "type": "file",
-        "url": "https://github.com/ModestMeowth/secrets"
-      },
-      "original": {
-        "type": "file",
-        "url": "https://github.com/ModestMeowth/secrets"
+        "keys": "keys"
       }
     }
   },
