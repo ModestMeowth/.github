@@ -16,22 +16,9 @@
         "type": "github"
       }
     },
-    "keys": {
-      "flake": false,
-      "locked": {
-        "narHash": "sha256-bIVAnEY0YxWrIUUz0CoN9sCaDfO+VOiG2yfkMUchCsg=",
-        "type": "file",
-        "url": "https://github.com/ModestMeowth.keys"
-      },
-      "original": {
-        "type": "file",
-        "url": "https://github.com/ModestMeowth.keys"
-      }
-    },
     "root": {
       "inputs": {
-        "dotfiles": "dotfiles",
-        "keys": "keys"
+        "dotfiles": "dotfiles"
       }
     }
   },
